@@ -1,0 +1,42 @@
+# Blender MTL File: 'None'
+# Material Count: 3
+
+newmtl Canvas
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures/Canvas_diffuse.png
+map_bump textures/Canvas_normal.png
+map_Ns textures/Canvas_specularGlossiness.png
+map_Ka textures/Canvas_occlusion.png
+
+newmtl Frame
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures/Frame_diffuse.png
+map_bump textures/Frame_normal.png
+map_Ns textures/Frame_specularGlossiness.png
+
+newmtl Wheels
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures/Wheels_diffuse.png
+map_bump textures/Wheels_normal.png
+map_Ns textures/Wheels_specularGlossiness.png

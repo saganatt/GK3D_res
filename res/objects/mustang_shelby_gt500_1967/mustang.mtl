@@ -1,0 +1,125 @@
+# Blender MTL File: 'None'
+# Material Count: 10
+
+newmtl CarPaint_White
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+disp textures/CarPaint_White_metallicRoughness.png
+
+newmtl Car_Paint_Black
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+disp textures/Car_Paint_Black_metallicRoughness.png
+
+newmtl Car_Rim
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures/Car_Rim_baseColor.png
+disp textures/Car_Rim_metallicRoughness.png
+map_bump textures/Car_Rim_normal.png
+map_Ks textures/Car_Rim_specular.png
+
+newmtl Front_Grill
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures/Front_Grill_baseColor.jpeg
+disp textures/Front_Grill_metallicRoughness.png
+map_bump textures/Front_Grill_normal.png
+map_Ks textures/Front_Grill_specular.png
+
+newmtl Front_Light
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures/Front_Light_baseColor.png
+disp textures/Front_Light_metallicRoughness.png
+map_bump textures/Front_Light_normal.png
+map_Ks textures/Front_Light_specular.png
+
+newmtl Metal
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures/Metal_baseColor.jpeg
+
+newmtl RearLight_Diff
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures/RearLight_Diff_baseColor.png
+disp textures/RearLight_Diff_metallicRoughness.png
+map_bump textures/RearLight_Diff_normal.png
+map_Ks textures/RearLight_Diff_specular.png
+
+newmtl Wheels
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd textures/Wheels_baseColor.png
+disp textures/Wheels_metallicRoughness.png
+map_bump textures/Wheels_normal.png
+map_Ks textures/Wheels_specular.png
+
+newmtl WindShield2
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Wiper2
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
