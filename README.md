@@ -1,7 +1,7 @@
 # Computer Graphics Lab 4: 3D Graphics
 <h2><i>With a Mustang across the Wild West</i></h2>
 
-<h3><b>NOTE: This is only a resource repo, for source code check: https://github.com/saganatt/GK3D</b></h3>
+<h3 style="color:red"><b>NOTE: This is only a resource repo, for source code check: https://github.com/saganatt/GK3D</b></h3>
 
 Driving a Mustang car in a Wild West scenery<br>
 
